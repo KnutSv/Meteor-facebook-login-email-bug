@@ -16,3 +16,6 @@ Potential cause is change to Facebook API:
 https://developers.facebook.com/blog/post/2015/07/08/graph-api-v2.4/
 
 Where fields needs to be specified to return email.
+
+Mac OSX 10.10.3
+Chrome 43.0.2357.130
